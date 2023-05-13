@@ -3,3 +3,6 @@
 ################################################################################
 
 /Lab7/.vs/Lab7
+/Lab7/x64/Debug/Generated Files/winrt
+/Lab7/x64/Debug/Lab7.tlog
+/Lab7/packages/Microsoft.Windows.CppWinRT.2.0.220531.1/build/native
