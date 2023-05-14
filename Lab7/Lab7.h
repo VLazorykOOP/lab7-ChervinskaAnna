@@ -10,5 +10,5 @@ namespace SpaceTask3 {
 	int mainTask3();
 }
 namespace SpaceTask4 {
-	int mainTask14();
+	int mainTask4();
 }
